@@ -6,7 +6,7 @@ class DataValues {
       'Hello there, I\'m Priyansh Shah. This is my personal website, which contains public information that anyone can find on the internet.';
   static const String appDeveloper = 'Priyansh Shah';
   static const String appPackage = '.priyanshshah_dev';
-  static const String appVersion = '1.1.2';
+  static const String appVersion = '1.0.0';
   static const String appBuildNumber = '1';
 
   // External links
