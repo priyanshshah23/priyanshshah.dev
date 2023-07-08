@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <base href="/">
+    <meta charset="UTF-8"/>
+    <title>Priyansh Shah</title>
+    <meta content="Hello there, I'm Priyansh Shah. This is my personal website, which contains public information that anyone can find on the internet."
+          name="description"/>
+    <link href="manifest.json" rel="manifest"/>
+
+    <!-- Browser meta tags & icons -->
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <!-- iOS meta tags & icons -->
+    <meta content="yes" name="apple-mobile-web-app-capable"/>
+    <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+    <meta content="Priyansh Shah" name="apple-mobile-web-app-title"/>
+    <link href="icons/apple-touch-icon.jpg" rel="apple-touch-icon"/>
+    <!-- Favicon -->
+    <link href="icons/favicon.ico" rel="icon" sizes="any" type="image/x-icon"/>
+
+
+    <script>
+      // The value below is injected by flutter build, do not touch.
+      var serviceWorkerVersion = null;
+
+    </script>
+    <!-- This script adds the flutter initialization JS code -->
+    <script defer="" src="flutter.js"></script>
+    <link href="splash/style.css" rel="stylesheet" type="text/css"/>
+    <script src="splash/splash.js"></script>
+</head>
+
+<body>
+<!--<picture id="splash">-->
+<!--    <source srcset="logo/img/light-1x.jpg 1x, logo/img/light-2x.jpg 2x, logo/img/light-3x.jpg 3x, logo/img/light-4x.jpg 4x"-->
+<!--            media="(prefers-color-scheme: light)"/>-->
+<!--    <source-->
+<!--            srcset="-->
+<!--          logo/img/dark.jpg 1x,-->
+<!--          logo/img/dark-2x.jpg 2x,-->
+<!--          logo/img/dark-3x.jpg 3x,-->
+<!--          logo/img/dark-4x.jpg 4x-->
+<!--        "-->
+<!--            media="(prefers-color-scheme: dark)"-->
+<!--    />-->
+<!--    <img-->
+<!--            class="center"-->
+<!--            aria-hidden="true"-->
+<!--            src="logo/img/dark.jpg"-->
+<!--            alt=""-->
+<!--    />-->
+<!--</picture>-->
+
+<script>
+      window.addEventListener("load", function (ev) {
+        // Download main.dart.js
+        _flutter.loader.loadEntrypoint({
+          serviceWorker: {
+            serviceWorkerVersion: serviceWorkerVersion,
+          },
+          onEntrypointLoaded: function (engineInitializer) {
+            engineInitializer.initializeEngine().then(function (appRunner) {
+              appRunner.runApp();
+            });
+          },
+        });
+      });
+
+</script>
+</body>
+
+</html>
