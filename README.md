@@ -1,7 +1,7 @@
 # Priyansh Shah
 
 
-**Live Preview: 👉🏽 [priyanshshah.dev](https://priyansh-shah.web.app)**
+**Live Preview: 👉🏽 [priyanshshah](https://priyansh-shah.web.app)**
 
 ✨ Hello there, I'm Priyansh Shah. This is my personal website, which contains public information that anyone can find on the internet.
 
@@ -69,14 +69,14 @@ Thanks to everyone who supported.
 ## 📜 License
 
 This project is licensed under the MIT License.  
-MIT [©priyanshshah.dev](https://priyansh-shah.web.app)
+MIT [©priyanshshah](https://priyansh-shah.web.app)
 See the license file for more
 details [LICENSE.md](https://github.com/priyanshshah23/priyanshshah.dev/blob/main/LICENSE)
 
 ## 👨‍💻 Developed By
 
 Priyansh Shah
-[©priyanshshah.dev](https://priyansh-shah.web.app)
+[©priyanshshah](https://priyansh-shah.web.app)
 
 ## 💬 Contact
 
