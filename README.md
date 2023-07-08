@@ -18,15 +18,6 @@
 
 ✨ Hello there, I'm Priyansh Shah. This is my personal website, which contains public information that anyone can find on the internet.
 
-## 🎬 Captured Moment
-
-![cover](https://user-images.githubusercontent.com/80202913/231434564-ce1b5761-3f5e-4c85-8593-87bda5a79d62.gif)
-
-## 🌐 Website
-
-<https://priyanshshah.github.io/priyanshshah.dev>
-<https://gh.priyanshshah.dev/priyanshshah.dev>
-<https://priyanshshah.dev>
 
 ## 🎉 Release Status
 
@@ -38,13 +29,7 @@ Initial release date - July 08, 2023
 
 Source Code
 
-- [main](https://github.com/priyanshshah23/priyanshshah.dev/tree/main) - Stable and latest version of the source code
-- [1.0.0](https://github.com/priyanshshah23/priyanshshah.dev/tree/1.0.0) - Stable 1.0.0 version of the source code
-- [1.1.x](https://github.com/priyanshshah23/priyanshshah.dev/tree/1.1.x) - Unstable and development versions of the source code
-
-Web Build
-
-- [web-build](https://github.com/priyanshshah23/priyanshshah.dev/tree/web-build) - Stable and latest version of the web build
+- [master](https://github.com/priyanshshah23/priyanshshah.dev/tree/master) - Stable and latest version of the source code
 
 ## 💙 Built With
 
@@ -109,4 +94,4 @@ Priyansh Shah
 ## 💬 Contact
 
 Send me an email if you need to contact me to discuss anything.  
-Email - <contact@priyanshshah.dev>
+Email - <shahpriyansh91@gmail.com>
