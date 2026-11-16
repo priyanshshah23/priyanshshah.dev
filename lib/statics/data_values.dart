@@ -13,7 +13,7 @@ class DataValues {
   static Uri devURL = Uri.parse('https://priyanshshah.dev');
   static Uri hashnodeURL = Uri.parse('https://hashnode.com/@priyanshshah');
   static Uri githubURL = Uri.parse('https://github.com/priyanshshah23');
-  static Uri linkedinURL = Uri.parse('https://linkedin.com/in/priyansh-shah23');
+  static Uri linkedinURL = Uri.parse('https://linkedin.com/in/priyanshshah23');
   static Uri twitterURL = Uri.parse('https://twitter.com/_priyanshshah');
   static Uri telegramURL = Uri.parse('https://t.me/priyanshshah');
   static Uri instagramURL = Uri.parse('https://instagram.com/priyansh.shah_');
@@ -23,7 +23,7 @@ class DataValues {
   // Header
   static const String headerGreetings = 'Hello, World! I\'m';
   static const String headerName = 'Priyansh Shah';
-  static const String headerTitle = 'SDE | Flutter | Android';
+  static const String headerTitle = 'AI Engineer | SDE-II | Flutter · Next.js';
 
   // Navigation Bar
   static const String navBarAboutMe = 'About Me';
@@ -36,12 +36,12 @@ class DataValues {
   // About me
   static const String aboutMeTitle = 'About Me';
   static const String aboutMeDescription =
-      'This website includes my public details, which anyone can find on the internet. So if you are looking for my personal information, such as my bio, education, experience, and other things that may make you wonder, feel free to scroll up and down to find out about me.';
+      'AI Engineer at Rocket building the core that powers the platform — code generation, intelligent agents, and multi-agent orchestration. Grounded in shipping real products across the full stack, from Flutter mobile apps to Next.js web.';
   static const String aboutMeBiographyTitle = 'Biography';
   static const String aboutMeBiographyDescription =
-      'Hi there! I\'m a software developer, has embarked on a remarkable journey in the world of technology. With a passion for app and web development, a versatile and powerful framework that has revolutionized the way applications are built. Armed with extensive knowledge of various tools and software, skills to deliver exceptional user experiences and develop innovative solutions. Let us dive into the story of this remarkable individual and explore their path to success.'
-      'Technology is always igniting my passion for the positive impact it can have, and I\'m excited to continue growing my skills and knowledge, so I started my career as a techie. '
-      'In addition to my studies.';
+      'AI Engineer at Rocket with a hand in the OAAS harness, its code generation modules, and the Next.js and Flutter generation layers. '
+      'Ships across the full stack, from mobile to web, and picks up an unfamiliar stack quickly. '
+      'Passionate about building intelligent systems that solve real-world engineering problems, and brings a product mindset shaped by years of working across cross-functional teams.';
   static const String aboutMeFullNameTitle = 'Full Name';
   static const String aboutMeFullNameDescription = 'Shah Priyansh Rajesh';
   static const String aboutMeNwITitle = 'Name with Initials';
@@ -59,20 +59,22 @@ class DataValues {
   static const String aboutMeGenderDescription = 'Male (He/Him/His)';
   static const String aboutMeLocationTitle = 'Current Locations';
   static const String aboutMeLocationDescription = 'Surat, Gujarat\nIndia';
-  static const String aboutMeDeveloperTitle = 'Software Developer';
+  static const String aboutMeDeveloperTitle = 'AI Engineer · SDE-II';
   static const String aboutMeDeveloperDescription =
-      'I use various tools for creating and implementing innovative solutions to problems in order to accomplish particular goals. I employ a variety of techniques, including software development alongside app development, as well as design and develop structures such as UI/UX, graphics, data management, and other analytical methods with a focus on my goals.';
+      'Working on code generation, intelligent agents, and multi-agent orchestration at Rocket. '
+      'Contributed to the OAAS harness and its code generation modules, the Next.js / React web-generation layer, and the Flutter code-generation module. '
+      'Owns end-to-end output quality across the code generation engine — from prompt and context engineering through to generated-code correctness and AI observability.';
   static const String aboutMeVolunteerTitle = 'Community Volunteer';
   static const String aboutMeVolunteerDescription =
       'I\'ve been a volunteer for many years and have had the opportunity to make a difference in my social and technical communities. Volunteering has allowed me to learn more about the people and things around me while also making a positive difference in the lives of those I serve, and by volunteering, I would love to help others reach their life goals.';
   static const String aboutMeHobbiesTitle = 'Hobbies';
-  static const String aboutMeHobbiesDescription = 'Learning New Things\n'
-      'Watching Movies & TV Shows\n'
-      'Listening to Music & Dancing\n'
-      'Solving Problems';
+  static const String aboutMeHobbiesDescription = 'Building AI Products\n'
+      'Open-source Contribution\n'
+      'Listening to Music\n'
+      'Solving Complex Problems';
   static const String aboutMeGoalTitle = 'Goal';
   static const String aboutMeGoalDescription =
-      'To grow personally and professionally, while making a positive impact on the world.';
+      'To build intelligent systems that push the frontier of AI-assisted engineering, while growing as an engineer and making a meaningful impact.';
   static const String aboutMeBanner = 'You can find my';
   static const String aboutMeBannerTitle = 'public profiles';
   static const String aboutMeBannerWeb =
@@ -81,11 +83,11 @@ class DataValues {
   // Education
   static const String educationTitle = 'Education';
   static const String educationDescription =
-      'My educational background is from Uka Tarsadia University as B.Tech Computer Engineer.';
+      'B.Tech Computer Engineering from Uka Tarsadia University with a CGPA of 9.71 — First Class with Distinction.';
   static const String educationOrg1Title = 'Uka Tarsadia University';
   static const String educationOrg1Course1Name = 'B.Tech Computer Engineering';
-  static const String educationOrg1Course1Grade = '9.71';
-  static const String educationOrg1Course1Year = '2017 - 2021';
+  static const String educationOrg1Course1Grade = '9.71 / 10.00 · First Class with Distinction';
+  static const String educationOrg1Course1Year = 'Jun 2017 - Mar 2021';
   static const String educationOrg1Course2Name = '12th Gujarat Board';
   static const String educationOrg1Course2Grade = '87%';
   static const String educationOrg1Course2Year = '2016';
@@ -93,16 +95,28 @@ class DataValues {
   // Experience
   static const String experienceTitle = 'Experience';
   static const String experienceDescription =
-      'Since I started my diploma in 2019, I\'ve started to learn and apply my knowledge in different places. So I started working as a freelance solution developer, and with time, I fell in love with different technologies. I received industrial training in my second year, and now I try out my experience.';
-  static const String experienceOrg1Title = 'DhiWise Pvt Ltd';
-  static const String experienceOrg1Role = 'Software Developer Engineer';
-  static const String experienceOrg1Years = 'August 2021 - Present';
-  static const String experienceOrg1Vales = 'Mobile, Desktop, Web development.';
-  static const String experienceOrg2Title = 'QuadSoftTech';
-  static const String experienceOrg2Role = 'Software Developer (Flutter)';
-  static const String experienceOrg2Years = 'July 2020 - August 2021';
+      'From shipping Flutter apps for global B2B clients to building the AI-powered code generation engine at Rocket — a vibe coding platform used by builders in 180+ countries.';
+  static const String experienceOrg1Title = 'Rocket (formerly DhiWise)';
+  static const String experienceOrg1Role = 'Software Development Engineer (SDE-II)';
+  static const String experienceOrg1Years = 'Dec 2022 - Present';
+  static const String experienceOrg1Vales =
+      'Built the code generation modules in OAAS, Rocket\'s outcome-accountable agentic harness. '
+      'Architected the Next.js / React web-generation layer and the AI-powered Flutter code-generation module — cutting feature delivery time by ~40%. '
+      'Owns end-to-end output quality: prompt & context engineering, generated-code correctness, AI observability. '
+      'Contributes across the full engineering stack — from agent reasoning loops to deployment infrastructure.';
+  static const String experienceOrg2Title = 'DiamNow LLP (a Coruscate company)';
+  static const String experienceOrg2Role = 'SDE - Mobile Application Developer';
+  static const String experienceOrg2Years = 'Aug 2021 - Dec 2022';
   static const String experienceOrg2Vales =
-      'Android, Flutter, Dart, Firebase, Git, REST API, JSON Parsing & UI UX Designing.';
+      'Shipped 5 production mobile apps (FineStar, Unique Gems, Arjiv Exports, SI Diamonds BV + 1) live on both App Store and Play Store for global B2B clients. '
+      'Engineered REST API client layers with error handling and offline caching, reducing app crashes by 35%. '
+      'Worked across cross-platform and iOS-specific builds, translating client-specific product requirements into shipped applications.';
+  static const String experienceOrg3Title = 'QuadSoftTech';
+  static const String experienceOrg3Role = 'Flutter Developer Intern → Flutter Developer';
+  static const String experienceOrg3Years = 'Dec 2020 - Aug 2021';
+  static const String experienceOrg3Vales =
+      'Started as an intern delivering Flutter UIs and Firebase integrations under mentorship, contributing to two live client projects and gaining full App Store submission and release workflow experience. '
+      'Promoted to Flutter Developer; developed cross-platform Flutter apps with pixel-perfect responsive UIs and fully integrated REST APIs, reducing rendering bottlenecks by 25%.';
 
   // Contact
   static const String contactTitle = 'Contact';
