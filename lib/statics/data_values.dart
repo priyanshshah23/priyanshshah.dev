@@ -13,7 +13,7 @@ class DataValues {
   static Uri devURL = Uri.parse('https://priyanshshah.dev');
   static Uri hashnodeURL = Uri.parse('https://hashnode.com/@priyanshshah');
   static Uri githubURL = Uri.parse('https://github.com/priyanshshah23');
-  static Uri linkedinURL = Uri.parse('https://linkedin.com/in/priyanshshah23');
+  static Uri linkedinURL = Uri.parse('https://linkedin.com/in/priyansh-shah23');
   static Uri twitterURL = Uri.parse('https://twitter.com/_priyanshshah');
   static Uri telegramURL = Uri.parse('https://t.me/priyanshshah');
   static Uri instagramURL = Uri.parse('https://instagram.com/priyansh.shah_');
@@ -39,9 +39,10 @@ class DataValues {
       'AI Engineer at Rocket building the core that powers the platform — code generation, intelligent agents, and multi-agent orchestration. Grounded in shipping real products across the full stack, from Flutter mobile apps to Next.js web.';
   static const String aboutMeBiographyTitle = 'Biography';
   static const String aboutMeBiographyDescription =
-      'AI Engineer at Rocket with a hand in the OAAS harness, its code generation modules, and the Next.js and Flutter generation layers. '
-      'Ships across the full stack, from mobile to web, and picks up an unfamiliar stack quickly. '
-      'Passionate about building intelligent systems that solve real-world engineering problems, and brings a product mindset shaped by years of working across cross-functional teams.';
+      'AI Engineer at Rocket building the core that powers the platform. '
+      'Contributed to OAAS — Rocket\'s outcome-accountable agentic harness — and its code generation modules, the Next.js / React web-generation layer, and the Flutter code-generation module that cuts feature delivery time by ~40%. '
+      'Works across the full engineering stack from agent reasoning loops to deployment infrastructure. '
+      'Passionate about building intelligent systems that solve real-world engineering problems, and brings a product mindset shaped by years of shipping mobile and web products across cross-functional teams.';
   static const String aboutMeFullNameTitle = 'Full Name';
   static const String aboutMeFullNameDescription = 'Shah Priyansh Rajesh';
   static const String aboutMeNwITitle = 'Name with Initials';
